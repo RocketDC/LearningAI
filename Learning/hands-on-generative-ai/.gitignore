@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# PyTorch/ML Models & Datasets (local cache or downloaded files)
+.cache/
+hf_cache/
+models/
+datasets/
+data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Media outputs (to avoid committing large generated images/videos/audio)
+outputs/
+generated/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.wav
+*.mp3
+*.mp4
