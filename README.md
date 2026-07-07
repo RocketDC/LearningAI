@@ -56,9 +56,10 @@ learning/generative-ai-transformers-diffusion/
 
 ## ✅ Next Steps
 
-1. Review SCHEDULE.md
-2. Start Week 1 on May 19, 2026
-3. Create `code/` and `notes/` folders as you progress
-4. Track progress in SCHEDULE.md
+1. Review [SCHEDULE.md](file:///Users/anand/Documents/antigravity/gallant-euclid/SCHEDULE.md)
+2. Follow the [Python Execution Instructions](file:///Users/anand/Documents/antigravity/gallant-euclid/Learning/hands-on-generative-ai/HOW_TO_RUN.md) to set up and run code files.
+3. Start Week 1 on May 19, 2026
+4. Create `code/` and `notes/` folders as you progress
+5. Track progress in SCHEDULE.md
 
 **Let's get started! 🚀**
